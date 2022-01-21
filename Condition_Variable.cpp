@@ -1,14 +1,12 @@
 // Condition_Variable.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // 
-// if you're traveling in overnight bus, to ensure you can get away from bus stop is to wake up all night whiel chatting to driver.
+// if you're traveling in overnight bus, to ensure you can get away from bus stop is to wake up all night while chatting to driver.
 // you arive, you get off, but you'll  feel tired and travel is longer because you distracted drtive
 // 
 // another way is check timetable, set alarm and go to sleep
 // but you might not wake up.  i there's more traffic, you'll wake up early, and vise versa
-// 
-// to ensure you get off correctly, you have to ask someone to wake you up at the right moment
-// 
-// 
+// To ensure you get off correctly, you have to ask someone to wake you up at the right moment.
+//
 // condition variable: mechanism for waiting for an event to triggered by another thread
 // 
 // condition variable is associated with some event, and one or more threads can wait for that event to happen.  if SOME THREAD
